@@ -2,6 +2,7 @@
 Julia implementation of greenlearning
 
 Original implementation written in Python
+- [arXiv](https://arxiv.org/abs/2105.00266)
 - [GitHub](https://github.com/NBoulle/greenlearning)
 - [Document](https://greenlearning.readthedocs.io/en/latest/)
 
