@@ -1,0 +1,3 @@
+[submodule "greenlearning"]
+	path = greenlearning
+	url = git@github.com:NBoulle/greenlearning.git
