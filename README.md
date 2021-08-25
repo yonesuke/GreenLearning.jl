@@ -11,3 +11,7 @@ Original implementation written in Python
 git clone git@github.com:yonesuke/GreenLearning.jl.git
 cd GreenLearning.jl; git submodule update --init --recursive
 ```
+
+## Example
+Laplace equation
+![laplace](notebooks/laplace.png)
