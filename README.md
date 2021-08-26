@@ -19,7 +19,7 @@ cd GreenLearning.jl; git submodule update --init --recursive
     
     ![laplace_green](examples/laplace/laplace_green_homogeneous.png)
     
-    Loss throuh iteration
+    Loss through iteration
     
     ![laplace_loss](examples/laplace/laplace_loss.png)
     
