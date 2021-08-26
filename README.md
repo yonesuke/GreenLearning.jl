@@ -13,5 +13,8 @@ cd GreenLearning.jl; git submodule update --init --recursive
 ```
 
 ## Example
-Laplace equation
-![laplace](notebooks/laplace.png)
+- Laplace equation
+    Green function and homogeneous solution
+    ![laplace_green](examples/laplace/laplace_green_homogeneous.png)
+    Loss throuh iteration
+    ![laplace_loss](examples/laplace/laplace_loss.png)
